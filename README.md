@@ -1,5 +1,5 @@
 # github-portfolio
-# Carrer Reflections
+# Carrer Counselling
 I lacked clarity on which path would best align with my goals, interest and values. I was excited when i was tasked to complete a work readiness in carrer development. My goal was to get a better understanding of my carrer goals, interest and identify roles that would suit my skills and interest. I completed a selft assessment exercise and a quizz, that helped me to understand the importance of setting goals.
 The carrer development session really improved my confidence regarding my carrer direction, it also helped me to discover that i do well in activities and roles that  involves problem solving, communication and working as a team.
 
