@@ -73,8 +73,7 @@ Doing a mock interview video was an exciting task as it was my first time doing 
 # Professional Networking
 At my university i was given a task to complete professional networking assessment. The purpose of this task was for me to understand what is the purpose of networking and what common mistakes to avoid when networking. Few months back i attended an networking event where i was able to apply what i ahve learned from the assessment to the event i attended knowing how to communicate and ask questions.
 
-<img width="336" height="316" alt="professional" src="https://github.com/user-attachments/assets/41cbd40a-4b0d-4547-bbb2-d55bc9e95ce8" />
-
+![IMG_0318](https://github.com/user-attachments/assets/0cac7b9f-6afc-4c8e-873a-a79825acd0da)
 
 
 
