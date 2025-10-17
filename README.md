@@ -55,6 +55,27 @@ After creating my cv i applied to verious companies for IT internships in Softwa
 ![interview](https://github.com/user-attachments/assets/71dd8bed-3d63-4863-a96d-5a04ab573442)
 
 
+# Business Communication 
+As a final year student at my university i was given a task to complete a business communication assessment.The purpose purpose of this assessment was to help me understad the purpose, formal language and the tone to use for business emails, after completing the assessment i was able to apply what i have learned on the task to the system that we designing as final yeaer students.
+
+<img width="329" height="299" alt="business" src="https://github.com/user-attachments/assets/6aad4533-bd2e-4150-a2a9-9be47f45c7f6" />
+
+
+# Interview Skills
+Preparing for an interview has always been something i struggle with as i would be stressed and overwhelmed.I completed an interview assessment from my university that opened my eyes and mind to see wha is required when doing an interview. This assessment provided me with tools i can use when i am preparing for an interview and how should i answer questions from the panel, know the importance of researching a company before an interview, dress code and body language.The interview skills assessment really improved my confidedence regarding my interview skills.
+
+<img width="232" height="294" alt="interview" src="https://github.com/user-attachments/assets/ab9957e1-8f8d-4d09-9701-716380535575" />
+
+
+# Mock Interview
+Doing a mock interview video was an exciting task as it was my first time doing it, i also learnt that its very similar to an interview the only difference is that with mock interview you get to choose the type of questions you want to answer wheres on the interview you dont choose the questions.
+
+# Professional Networking
+At my university i was given a task to complete professional networking assessment. The purpose of this task was for me to understand what is the purpose of networking and what common mistakes to avoid when networking. Few months back i attended an networking event where i was able to apply what i ahve learned from the assessment to the event i attended knowing how to communicate and ask questions.
+
+# C workplace etiquette
+Knowing how to behave in a placework is very important.I completed a workplace ettiquette task that showed me the importance of knowing of knowing how an indivudual should carry themselves i a workplace, what should be done and what should not be done. I have learned what i should do if i receive a work email with a rude or offensive tone, the importance of knowing how to manage time and when is it acceptable to use my personal cellphone for non related calls and texting at my work place. What i have learned during this task is what i will apply also to my work place.The workplace etiquette task really improved my understanding on what is required from an employee in a workplace. 
+
 
 
 
