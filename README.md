@@ -73,8 +73,17 @@ Doing a mock interview video was an exciting task as it was my first time doing 
 # Professional Networking
 At my university i was given a task to complete professional networking assessment. The purpose of this task was for me to understand what is the purpose of networking and what common mistakes to avoid when networking. Few months back i attended an networking event where i was able to apply what i ahve learned from the assessment to the event i attended knowing how to communicate and ask questions.
 
+<img width="336" height="316" alt="professional" src="https://github.com/user-attachments/assets/41cbd40a-4b0d-4547-bbb2-d55bc9e95ce8" />
+
+
+
+
+
 # C workplace etiquette
 Knowing how to behave in a placework is very important.I completed a workplace ettiquette task that showed me the importance of knowing of knowing how an indivudual should carry themselves i a workplace, what should be done and what should not be done. I have learned what i should do if i receive a work email with a rude or offensive tone, the importance of knowing how to manage time and when is it acceptable to use my personal cellphone for non related calls and texting at my work place. What i have learned during this task is what i will apply also to my work place.The workplace etiquette task really improved my understanding on what is required from an employee in a workplace. 
+
+<img width="275" height="267" alt="work ettiquete" src="https://github.com/user-attachments/assets/55a8050c-d505-4828-a82b-3833a96d56c7" />
+
 
 
 
