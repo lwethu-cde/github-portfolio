@@ -70,6 +70,7 @@ Preparing for an interview has always been something i struggle with as i would 
 # Mock Interview
 Doing a mock interview video was an exciting task as it was my first time doing it, i also learnt that its very similar to an interview the only difference is that with mock interview you get to choose the type of questions you want to answer wheres on the interview you dont choose the questions.
 
+<img width="784" height="614" alt="video" src="https://github.com/user-attachments/assets/bbfbda49-3899-4082-8377-46f56a5ffdeb" />
 
 
 # Professional Networking
