@@ -70,6 +70,8 @@ Preparing for an interview has always been something i struggle with as i would 
 # Mock Interview
 Doing a mock interview video was an exciting task as it was my first time doing it, i also learnt that its very similar to an interview the only difference is that with mock interview you get to choose the type of questions you want to answer wheres on the interview you dont choose the questions.
 
+
+
 # Professional Networking
 At my university i was given a task to complete professional networking assessment. The purpose of this task was for me to understand what is the purpose of networking and what common mistakes to avoid when networking. Few months back i attended an networking event where i was able to apply what i ahve learned from the assessment to the event i attended knowing how to communicate and ask questions.
 
